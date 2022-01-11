@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 #  🙌 Welcome 🙌
 
-I'm trying to be a 'Real' Back-End developer.
+I'm trying to be a Full-Stack developer.
 
 
 # 💻 Techology Stack 
