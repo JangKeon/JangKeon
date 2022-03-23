@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 #  🙌 Welcome 🙌
 
-I'm trying to be a Back-End Developer.
+I'm trying to be a cool person.
 
 
 # 💻 Techology Stack 
