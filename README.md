@@ -27,7 +27,7 @@ I'm trying to be a fluent Front-End engineer.
 
 -Techs that I've used at least once
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white) ![JupyerNotebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white) ![JupyerNotebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-02569B?style=flat-square&logo=Docker&logoColor=white)
 
 # 🌱Stats
 ![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangKeon&show_icons=true&theme=radical)
