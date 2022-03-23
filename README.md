@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 #  🙌 Welcome 🙌
 
-I'm trying to be a cool person.
+I'm trying to be a fluent Front-End engineer.
 
 
 # 💻 Techology Stack 
