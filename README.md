@@ -30,3 +30,6 @@ I will make cool and gorgeous things out of my life! ✨
 
 # 🌱Stats
 ![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangKeon&show_icons=true&theme=radical)
+
+
+-- Will be Updtaed entirely.
