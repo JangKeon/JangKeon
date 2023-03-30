@@ -45,6 +45,9 @@ I want to be a **DevOps engineer**. 🎆
 
 
 # 🌱Stats
-![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangKeon&show_icons=true&theme=radical)
+![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangKeon&theme=radical)
+
+
+
 
 
