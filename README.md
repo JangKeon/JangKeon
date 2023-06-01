@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I will make cool and gorgeous things out of my life! ✨
 
-Currently, I have experienced the overall design of **Infrastructure**, **CI/CD pipeline** construction in the Cloud environment, **Docker Container** construction, and **Kubernetes deployment** while using **Kakao I Cloud** through the Kakao Enterprise SW Academy.  👨‍🎓
+Currently, I have experienced the overall design of **Infrastructure**, **CI/CD pipeline** construction in the Cloud environment, **Docker Container** construction, and **Kubernetes deployment** while using **Kakao I Cloud**.  👨‍🎓
 
 I want to be a **DevOps engineer**. 🎆
 
