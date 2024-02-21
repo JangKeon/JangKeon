@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I will make cool and gorgeous things out of my life! ✨
 
-Currently, I have experienced the overall design of **Infrastructure**, **CI/CD pipeline** construction in the Cloud environment, **Docker Container** construction, and **Kubernetes deployment** while using **Kakao I Cloud**.  👨‍🎓
+I have experienced the overall design of **Infrastructure**, **CI/CD pipeline** construction in the Cloud environment, **Docker Container** construction, and **Kubernetes deployment** while using **Kakao I Cloud**.  👨‍🎓
 
 I want to be a **DevOps engineer**. 🎆
 
@@ -43,11 +43,11 @@ I want to be a **DevOps engineer**. 🎆
 
 
 
-
+<!--
 # 🌱Stats
 ![Keon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangKeon&theme=radical)
 
-
+-->
 
 
 
